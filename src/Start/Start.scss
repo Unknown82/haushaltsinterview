@@ -1,0 +1,148 @@
+.start {
+  padding: 100px 0;
+}
+
+.start__title {
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.angaben {
+  background: #e5ddf5;
+  box-shadow: 10px 10px 15px rgb(0 0 0 / 20%);
+  padding: 40px 40px 70px;
+  border-radius: 15px;
+  margin-bottom: 40px;
+}
+
+.angaben__title {
+  margin: 30px 0;
+}
+
+.angaben__title-mt {
+  margin-top: 60px;
+}
+
+.angaben__anrede {
+  margin-bottom: 33px;
+}
+
+.angaben__anrede-title, label {
+  margin-right: 20px;
+}
+
+.angaben__anrede-int {
+  margin-right: 5px;
+}
+
+.angaben__int {
+  width: 100%;
+  margin: 10px 0;
+  border: 1px solid #939393;
+  border-radius: 10px;
+  padding: 6px 10px;
+}
+
+.angaben__int-geburt {
+  margin: 10px 0 10px 20px;
+  border: 1px solid #939393;
+  border-radius: 10px;
+  padding: 6px 3px;
+}
+
+.angaben__int-ausweis {
+  color: #fff;
+  background: #6000c7;
+  border: 1px solid #939393;
+  border-radius: 10px;
+}
+
+.angaben__int-mt {
+  margin-top: 30px;
+}
+
+.angaben__int:hover, .angaben__int:active, .angaben__int:focus-visible {
+  border: 1px solid #2de714;
+}
+.angaben__info-mt {
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.angaben__info-i {
+  color: #fff;
+  background: #606060;
+
+  padding: 1px 10px;
+  margin-left: 15px;
+  border-radius: 50%;
+
+}
+
+.angaben__info-text {
+  display: block;
+  position: absolute;
+  color: #000;
+  background: #fff;
+  padding: 30px;
+  border: 1px solid #939393;
+  border-radius: 10px;
+}
+
+.angaben__steuer {
+  margin-top: 30px;
+}
+
+.angaben__steuer-select {
+  border-radius: 10px;
+  padding: 2px 0;
+}
+
+.angaben__beruf-select {
+  border-radius: 10px;
+  padding: 2px 10px;
+}
+
+.angaben__beruf-label {
+  margin-bottom: 10px;
+}
+
+.angaben__bildung {
+  margin-top: 30px;
+}
+.einnahmen {
+  color: #fff;
+  background: #027a08;
+  padding: 0 10px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.einnahmen__int {
+  width: 180px;
+  padding: 2px 10px;
+}
+
+.ausgaben {
+  color: #fff;
+  background: #7a015f;
+  padding: 0 10px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.ausgaben__int {
+  width: 180px;
+  padding: 2px 10px;
+}
+
+.btn__wrap {
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  color: #fff;
+  background: blue;
+  border-radius: 10px;
+}

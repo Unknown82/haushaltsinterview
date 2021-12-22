@@ -1,0 +1,44 @@
+.beraten {
+  text-align: center;
+  padding: 100px 0;
+}
+
+.beraten__title {
+  margin-bottom: 50px;
+}
+
+.beraten__btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 600px;
+  height: 300px;
+  color: #202020;
+  border: 1.5px solid #202020;
+  border-radius: 20px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.beraten__btn:hover {
+  border: 1.5px solid #2de714;
+}
+
+.beraten__liste {
+  text-align: start;
+}
+
+//input {
+//  margin-right: 10px;
+//}
+
+.beraten__btn-title {
+  margin-bottom: 20px;
+}
+
+.beraten__item {
+  margin-bottom: 10px;
+}
+
+
+
