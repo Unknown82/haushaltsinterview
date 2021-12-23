@@ -7,11 +7,8 @@ class Start extends React.Component {
             info2: 'none',
             info3: 'none',
             info4: 'none',
-            info5: 'none',
+            info5: 'none'
         }
-
-
-
 
 
 
